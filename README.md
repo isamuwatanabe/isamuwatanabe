@@ -1,8 +1,8 @@
 <!-- Status -->
 <div align="left">
   <a href="https://github.com/isamuwatanabe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isamuwatanabe&show_icons=true&theme=calm&border_color=30363d&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamuwatanabe&layout=compact&langs_count=7&theme=calm&border_color=30363d"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isamuwatanabe&show_icons=true&theme=dark&border_color=30363d&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamuwatanabe&layout=compact&langs_count=7&theme=dark&border_color=30363d"/>
 </div>
 
 <!--
